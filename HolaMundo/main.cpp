@@ -9,6 +9,7 @@
  * Author: neto
  *
  * Created on 9 de marzo de 2016, 09:11 PM
+ * LISTO
  */
 #include <stdio.h>
 #include <stdlib.h>
